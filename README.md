@@ -4,25 +4,6 @@ A free, new-user-friendly website starter project designed to walk you through c
 
 Read more at [https://getzeropoint.com](https://getzeropoint.com)!
 
-## What is ZeroPoint?
-
-### For new users
-
-_ZeroPoint_ is a free, new-user-friendly website starter designed to walk you through creating and publishing a fast, secure web project using modern tools and technology. ZeroPoint makes it easy to "get up to zero" and start building your site.
-
-### For experienced developers
-
-_ZeroPoint_ is a modern, opinionated, bare-bones Jamstack starter using Eleventy to get "up to zero" on a project quickly and easily.
-Why you might choose _ZeroPoint_ as your Jamstack starter:
-
-* Powered by Eleventy, which [rocks](https://11ty.rocks)!
-* No CSS frameworks or libraries; use whatever you like best
-* GitHub Action replaces the ZeroPoint name throughout the site with your project's name!
-* Custom generated project-specific [readme file](https://github.com/MWDelaney/ZeroPoint/blob/master/README.ZeroPoint.md) to help you take the next steps and launch your project!
-* Sass for CSS
-* Javascript compilation and minification
-* Browsersync to preview your work
-
 ## Get started: Use This Template
 
 Get started with ZeroPoint one of the following ways:
@@ -36,26 +17,6 @@ Create a new project using ZeroPoint and add it to your GitHub account
   <img src="https://img.shields.io/badge/use%20this-template-blueviolet?logo=github&style=for-the-badge">
 </a>
  </details>
-
-<details open>
- <summary>Start with Netlify</summary>
-
-Create a copy of ZeroPoint and deploy it straight to [Netlify](https://netlify.com) for **free**!
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/MWDelaney/ZeroPoint/)
-
- </details>
-
-<details>
- <summary>With GitHub CLI (https://cli.github.com)</summary>
-
-Get started from your command line
-
- ```sh
-  gh repo create example.com --template MWDelaney/ZeroPoint
- ```
-
-</details>
 
 ## Get to Know ZeroPoint
 
