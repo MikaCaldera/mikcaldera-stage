@@ -7,8 +7,6 @@ Read more at [https://getzeropoint.com](https://getzeropoint.com)!
 ## Get started: Use This Template
 
 Get started with ZeroPoint one of the following ways:
-
-<details open>
  <summary>Start with GitHub</summary>
 
 Create a new project using ZeroPoint and add it to your GitHub account
@@ -16,7 +14,6 @@ Create a new project using ZeroPoint and add it to your GitHub account
 <a href="https://github.com/MWDelaney/ZeroPoint/generate">
   <img src="https://img.shields.io/badge/use%20this-template-blueviolet?logo=github&style=for-the-badge">
 </a>
- </details>
 
 ## Get to Know ZeroPoint
 
